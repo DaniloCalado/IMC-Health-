@@ -1,3 +1,5 @@
+O projeto IMC-Health foi desenvolvido utilizando React Native como tecnologia principal. Ele permite calcular o Índice de Massa Corporal (IMC) com base na altura e no peso inseridos pelo usuário. Foram utilizados conceitos de estado, componentes funcionais, useState e estilização com StyleSheet do React Native. O projeto é uma ótima maneira de aprender a configurar e codificar com React Native, especialmente para aqueles com conhecimentos prévios em React JS e JavaScript.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
